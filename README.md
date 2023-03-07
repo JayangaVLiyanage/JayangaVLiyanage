@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **JayangaVLiyanage/JayangaVLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-### Hey! Nice to see you.
+### Nice to see you.
 
 <br>Welcome to my page!<br>I'm JayangaV, a Fullstack developer from  Sri Lanka
 
