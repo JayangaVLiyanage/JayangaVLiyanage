@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
-### Nice to see you.
+## Hi there 👋 Nice to see you.
 
 <br>Welcome to my page!<br>I'm JayangaV, a Fullstack developer from  Sri Lanka
 
