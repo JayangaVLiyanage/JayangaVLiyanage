@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋 Nice to see you.
-
 <br>Welcome to my page!<br>I'm JayangaV, a Fullstack developer from  Sri Lanka
 
 - 🔭 I’m currently working on Simulation based project
